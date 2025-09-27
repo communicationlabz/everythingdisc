@@ -41,3 +41,5 @@ Everything DiSC Sales® Facilitation Kit
 Everything DiSC on Catalyst™ Facilitation Kit: This kit bundles materials for the Workplace, Agile EQ, and Management modules to be used with the Catalyst platform.
 
 Our GitHub presence serves as a resource for our tools, documentation, and open-source contributions. Explore our repositories to find resources that support our mission of building stronger, more communicative workplaces. [Connect with us](https://communicationlabz.com/contact/) to discover how Communication Labz can help you unleash your team's full potential.
+
+https://communicationlabz 
