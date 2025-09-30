@@ -1,4 +1,3 @@
-# [Everything DiSC - What is DiSC?](https://communicationlabz.com)
 Unlock Your Team’s Potential  - [Workshops](https://communicationlabz.com/disc-workshops) | [Facilitation](https://communicationlabz.com/facilitation/)| [Focus Groups](https://communicationlabz.com/focus-groups/)
 
 Communication Labz is a premier provider of customized training, coaching, and organizational development solutions designed to transform workplace culture and enhance team performance. We specialize in leveraging a trusted and validated personality assessment, [Everything DiSC](https://communicationlabz.com/what-is-disc/), to help individuals and teams improve communication, resolve conflict, and build more effective working relationships.
